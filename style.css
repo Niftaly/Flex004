@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div .container {
+  background-color: #fd4f32;
+  height: 600px;
+}
+
+.imgs {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 100px;
+}
+
+.container p {
+  font-size: 52px;
+  letter-spacing: 2px;
+  color: #ffffff;
+  font-weight: 300;
+  font-family: "Open Sans";
+  text-align: center;
+  margin-top: 215px;
+  margin-bottom: 25px;
+}
+
+/* flex one finish */
+
+.container h1 {
+  font-size: 52px;
+  letter-spacing: 2px;
+  color: #ffffff;
+  font-weight: 300;
+  font-family: "Open Sans";
+  text-align: center;
+}
+
+.text {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+}
+
+.text input {
+  padding: 15px 205px 15px 15px;
+  border: none;
+}
+
+.daxil {
+  font-size: 16px;
+  letter-spacing: 1px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Open Sans";
+  text-align: center;
+  margin: 15px 47px;
+}
+
+.container button {
+  background-color: #fd4f32;
+  border: none;
+}
+
+/* 1ci hissenin sonu  */
+
+#pro h2 {
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #323232;
+  font-weight: 400;
+  font-family: "Open Sans";
+  padding-left: 100px;
+  padding-bottom: 16px;
+  padding-top: 60px;
+}
+
+#pro h3 {
+  font-size: 15px;
+  letter-spacing: 0px;
+  color: #8b8b8b;
+  font-weight: 400;
+  font-family: "Open Sans";
+
+  padding-left: 100px;
+  padding-bottom: 40px;
+}
+
+#pro {
+  background-color: #eeeeee;
+}
